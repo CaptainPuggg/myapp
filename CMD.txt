@@ -1,0 +1,3 @@
+cd C:\Users\GLORI\Desktop\FYP\env\Scripts\
+
+activate.bat
