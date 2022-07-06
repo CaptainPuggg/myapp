@@ -13,7 +13,7 @@ jedi==0.15.1
 jupyter-client==5.3.1
 jupyter-core==4.5.0
 kiwisolver==1.1.0
-lxml==4.4.1
+lxml==4.9.1
 matplotlib==3.1.1
 multitasking==0.0.9
 numpy==1.17.2
